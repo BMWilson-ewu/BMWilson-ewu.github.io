@@ -15,7 +15,7 @@ I am a passionate student of Computer Science at Eastern Washington University w
 ## Style Tile
 ### Colors
 * Primary Color: Teal
-* Secondary Color: Grey
+* Secondary Color: Burgundy
 
 ### Typography
 * Primary Font: [Cuprum](https://fonts.google.com/selection?query=cupru&selection.family=Cuprum)
