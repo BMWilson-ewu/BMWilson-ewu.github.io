@@ -1,0 +1,43 @@
+/* Style Guide
+ * Primary Color: Teal
+ * Secondary Color: Burgundy (RGB (128, 0, 32))
+*/
+  
+  h2 {
+    color: teal;
+    font-family: "Cuprum", Impact, "roboto", sans-serif;
+  }
+  
+  footer {
+    color: teal;
+  }
+  
+  footer a {
+    color: teal;
+    text-decoration: none;
+  }
+  
+  body {
+    background-color: rgb(128, 0, 32);
+  }
+
+  main {
+    display: flex;
+    justify-content: center;
+  }
+  
+  img {
+    width: 70%;
+  }
+  
+  p {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 1em;
+    color: Teal;
+    width: 50%;
+  }
+  
+  /* Typography
+   * Primary Font: font-family: "Cuprum", Impact, "roboto", sans-serif;
+   * 
+  */
