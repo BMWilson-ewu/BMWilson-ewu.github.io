@@ -27,6 +27,7 @@ main {
   display: flex;
   justify-content: space-evenly;
   background: rgb(0, 0, 0, .2);
+  animation: fadeIn 2s 1s ease-in-out backwards;
 }
 
 footer {
@@ -46,10 +47,6 @@ body {
 img {
   width: 40%;
   padding: 10px;
-}
-
-main {
-  animation: fadeIn 2s 1s ease-in-out backwards;
 }
 
 main p {
@@ -78,6 +75,27 @@ div, div a{
   }
 }
 
+@media screen and (min-width: 0em){
+  main {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  img {
+    width: 60%;
+  }
+}
+
+@media screen and (min-width: 56em){
+  main {
+    flex-direction: row;
+    align-items: flex-start;
+  }
+
+  img {
+    width: 40%;
+  }
+}
 /* Typography
  * Primary Font: font-family: "Cuprum", Impact, "roboto", sans-serif;
  * 
