@@ -81,6 +81,10 @@ div, div a{
     align-items: center;
   }
 
+  main p {
+    width: 100%;
+  }
+
   img {
     width: 60%;
   }
